@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1457361093 source:c:\users\simone\desktop\fp\generatore\monopolycube\main.c
+	"MonopolyArriuSimone.h"
+
+1457360753 c:\users\simone\desktop\fp\generatore\monopolycube\monopolyarriusimone.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdbool.h>
+	<time.h>
+
+1457361914 source:c:\users\simone\desktop\fp\generatore\monopolycube\monopolyarriusimone.c
+	"MonopolyArriuSimone.h"
+
